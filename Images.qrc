@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>asterisk.png</file>
+        <file>back.webp</file>
+        <file>back1.webp</file>
+        <file>back2.webp</file>
+        <file>back3.webp</file>
+        <file>0.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>9.png</file>
+        <file>equal.png</file>
+        <file>l.png</file>
+        <file>r.png</file>
+        <file>ba.png</file>
+        <file>sub.png</file>
+        <file>div.png</file>
+        <file>add.png</file>
+        <file>jinghao_146x146.png</file>
+        <file>dot.png</file>
+        <file>confused.png</file>
+    </qresource>
+</RCC>
